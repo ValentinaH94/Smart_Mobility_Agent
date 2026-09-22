@@ -1,0 +1,15 @@
+{
+  "cliente": {
+    "id": 1,
+    "nome": "Mario Rossi"
+  },
+  "veicolo": {
+    "id": 2,
+    "tipo": "monopattino"
+  },
+  "ore_noleggio": 3.0,
+  "tariffa_oraria": 6.0,
+  "costo_totale": 18.0,
+  "note_policy": "Franchigia ed eventuali penali (fuori zona, ritardo riconsegna) sono regolate dalla policy assicurativa GreenWheels.",
+  "timestamp": "2026-09-15T08:32:33.092757+00:00"
+}

@@ -1,0 +1,28 @@
+# --- Ambiente Python ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Variabili d'ambiente / segreti ---
+.env
+
+# --- Database: incluso nella consegna (stato popolato dai test) ---
+# Se preferisci rigenerarlo da zero con init_sqlite.py/init_chromadb.py,
+# scommenta le righe sotto.
+# database/mobility.db
+# database/chroma_store/
+
+# --- Output runtime del chatbot: incluso, è evidenza della prenotazione riuscita ---
+# ricevuta_noleggio.json
+
+# --- CrewAI ---
+.crewai/
